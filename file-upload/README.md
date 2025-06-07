@@ -1,12 +1,12 @@
-# Interactive User Dashboard
+# File Upload Application
 
-This project is an interactive user dashboard built using React and Vite. It leverages modern web development tools and practices to deliver a responsive and dynamic user experience.
+This project is a file upload application built using Next.js. It demonstrates how to handle file uploads efficiently with modern web technologies.
 
 ## Features
 
-- Interactive UI built with React.
-- Fast development and optimized builds using Vite.
-- Code quality ensured with ESLint.
+- File upload functionality using React Hook Form.
+- Integration with Next.js for server-side rendering and API routes.
+- ESLint configuration for maintaining code quality.
 
 ## Installation
 
@@ -16,7 +16,7 @@ This project is an interactive user dashboard built using React and Vite. It lev
    ```
 2. Navigate to the project directory:
    ```bash
-   cd my-app
+   cd file-upload/file-up
    ```
 3. Install dependencies:
    ```bash
